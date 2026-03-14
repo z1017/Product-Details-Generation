@@ -1,7 +1,7 @@
 import requests
 import re
 
-API_KEY = "sk-852edbf10aa7433d8a2c879a6640909d"
+API_KEY = "你的 API Key"
 
 def auto_detect_brand(title):
     # 自动识别标题开头的品牌名（中文或英文）
