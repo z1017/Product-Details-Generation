@@ -1,0 +1,1 @@
+# Product-Details-Generation-1.0.0-
